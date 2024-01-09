@@ -1,5 +1,5 @@
 # comvert-for-davinci
-ニンテンドースイッチでキャプチャーした動画をDaVinci Resolveでインポートできるようにするバッチファイル
+ニンテンドースイッチでキャプチャーした動画を、一括で、 DaVinci Resolve にインポートできる形式に変換するバッチファイル
 
 # 使い方
 1. ffmpeg コマンドを Windows で使えるようにします (参考: https://www.kkaneko.jp/tools/win/ffmpeg.html)
